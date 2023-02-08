@@ -1,7 +1,7 @@
 
 ## Hi
 
-I'm Frog++ and I enjoy programming with HTML, python and lower level languages such as C++.
+I enjoy programming with HTML, python and lower level languages such as C++.
 
 My main ideas for the future are:
 - To make a game engine 🎮
